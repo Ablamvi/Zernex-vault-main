@@ -1,0 +1,2 @@
+-keep class androidx.security.** { *; }
+-dontwarn androidx.security.**
